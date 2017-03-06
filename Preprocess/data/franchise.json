@@ -1,0 +1,2916 @@
+[
+  {
+    "movie": {
+      "Kung Fu Panda 3": [
+        "/movies/?id=kungfupanda3.htm", 
+        "1/29/16", 
+        "1/28/16", 
+        26388997
+      ], 
+      "Kung Fu Panda": [
+        "/movies/?id=kungfupanda.htm", 
+        "6/6/08", 
+        "6/5/08", 
+        28616543
+      ], 
+      "Kung Fu Panda 2": [
+        "/movies/?id=kungfupanda2.htm", 
+        "5/26/11", 
+        "5/26/11", 
+        41146233
+      ]
+    }, 
+    "name": "Series: Kung Fu Panda"
+  }, 
+  {
+    "movie": {
+      "Batman v Superman: Dawn of Justice": [
+        "/movies/?id=superman2015.htm", 
+        "3/25/16", 
+        "3/24/16", 
+        16457193
+      ], 
+      "Man of Steel": [
+        "/movies/?id=superman2012.htm", 
+        "6/14/13", 
+        "6/13/13", 
+        14993036
+      ], 
+      "Suicide Squad": [
+        "/movies/?id=dc2016.htm", 
+        "8/5/16", 
+        "8/3/16", 
+        14300000
+      ]
+    }, 
+    "name": "Series: DC Extended Universe"
+  }, 
+  {
+    "movie": {
+      "The Hunt for Red October": [
+        "/movies/?id=huntforredoctober.htm", 
+        "3/2/90"
+      ], 
+      "Patriot Games": [
+        "/movies/?id=patriotgames.htm", 
+        "6/5/92"
+      ], 
+      "Jack Ryan: Shadow Recruit": [
+        "/movies/?id=jackryan.htm", 
+        "1/17/14", 
+        "1/16/14", 
+        2195358
+      ], 
+      "Clear and Present Danger": [
+        "/movies/?id=clearandpresentdanger.htm", 
+        "8/5/94"
+      ], 
+      "The Sum of All Fears": [
+        "/movies/?id=sumofallfears.htm", 
+        "5/31/02", 
+        "8/2/02", 
+        2820607
+      ]
+    }, 
+    "name": "Series: Jack Ryan"
+  }, 
+  {
+    "movie": {
+      "Jack Reacher: Never Go Back": [
+        "/movies/?id=jackreacher2.htm", 
+        "10/21/16", 
+        "11/30/16", 
+        3856365
+      ], 
+      "Jack Reacher": [
+        "/movies/?id=oneshot.htm", 
+        "12/21/12", 
+        "1/17/13", 
+        5039774
+      ]
+    }, 
+    "name": "Series: Jack Reacher"
+  }, 
+  {
+    "movie": {
+      "Resident Evil: Retribution": [
+        "/movies/?id=residentevil5.htm", 
+        "9/14/12", 
+        "9/13/12", 
+        4227303
+      ], 
+      "Resident Evil": [
+        "/movies/?id=residentevil.htm", 
+        "3/15/02", 
+        "6/14/02", 
+        4087055
+      ], 
+      "Resident Evil: Apocalypse": [
+        "/movies/?id=residentevilapocalypse.htm", 
+        "9/10/04", 
+        "11/5/04", 
+        2446927
+      ], 
+      "Resident Evil: Afterlife": [
+        "/movies/?id=residentevil4.htm", 
+        "9/10/10", 
+        "9/15/10", 
+        12963377
+      ], 
+      "Resident Evil: Extinction": [
+        "/movies/?id=residentevil3.htm", 
+        "9/21/07", 
+        "10/18/07", 
+        3849739
+      ], 
+      "Resident Evil: The Final Chapter": [
+        "/movies/?id=residentevil6.htm", 
+        "1/27/17", 
+        "1/25/17", 
+        5520764
+      ]
+    }, 
+    "name": "Series: Resident Evil"
+  }, 
+  {
+    "movie": {
+      "Batman and Robin": [
+        "/movies/?id=batmanrobin.htm", 
+        "6/20/97"
+      ], 
+      "Batman Begins": [
+        "/movies/?id=batmanbegins.htm", 
+        "6/15/05", 
+        "6/23/05", 
+        6252155
+      ], 
+      "Batman Returns": [
+        "/movies/?id=batmanreturns.htm", 
+        "6/19/92"
+      ], 
+      "Batman": [
+        "/movies/?id=batman.htm", 
+        "6/23/89"
+      ], 
+      "Batman v Superman: Dawn of Justice": [
+        "/movies/?id=superman2015.htm", 
+        "3/25/16", 
+        "3/24/16", 
+        16457193
+      ], 
+      "Batman: Mask of the Phantasm": [
+        "/movies/?id=batmanmaskofthephantasm.htm", 
+        "12/25/93"
+      ], 
+      "The Dark Knight": [
+        "/movies/?id=darkknight.htm", 
+        "7/18/08", 
+        "8/7/08", 
+        25024391
+      ], 
+      "Batman: The Killing Joke": [
+        "/movies/?id=batmankillingjoke.htm", 
+        "7/25/16", 
+        "NA", 
+        "NA"
+      ], 
+      "The Dark Knight Rises": [
+        "/movies/?id=batman3.htm", 
+        "7/20/12", 
+        "7/19/12", 
+        41992822
+      ], 
+      "The LEGO Batman Movie": [
+        "/movies/?id=lego2.htm", 
+        "2/10/17", 
+        "2/9/17", 
+        951582
+      ], 
+      "Batman Forever": [
+        "/movies/?id=batmanforever.htm", 
+        "6/16/95"
+      ]
+    }, 
+    "name": "Series: Batman"
+  }, 
+  {
+    "movie": {
+      "American Pie": [
+        "/movies/?id=americanpie.htm", 
+        "7/9/99"
+      ], 
+      "American Reunion": [
+        "/movies/?id=americanreunion.htm", 
+        "4/6/12", 
+        "8/8/12", 
+        74231
+      ], 
+      "American Pie 2": [
+        "/movies/?id=americanpie2.htm", 
+        "8/10/01", 
+        "NA", 
+        "NA"
+      ], 
+      "American Wedding": [
+        "/movies/?id=americanwedding.htm", 
+        "8/1/03", 
+        "11/14/03", 
+        595947
+      ]
+    }, 
+    "name": "Series: American Pie"
+  }, 
+  {
+    "movie": {
+      "Taken": [
+        "/movies/?id=taken.htm", 
+        "1/30/09", 
+        "4/9/08", 
+        15471329
+      ], 
+      "Taken 2": [
+        "/movies/?id=taken2.htm", 
+        "10/5/12", 
+        "9/27/12", 
+        15501938
+      ], 
+      "Taken 3": [
+        "/movies/?id=taken3.htm", 
+        "1/9/15", 
+        "1/1/15", 
+        14575626
+      ]
+    }, 
+    "name": "Series: Taken"
+  }, 
+  {
+    "movie": {
+      "Scream 3": [
+        "/movies/?id=scream3.htm", 
+        "2/4/00", 
+        "NA", 
+        "NA"
+      ], 
+      "Scream 2": [
+        "/movies/?id=scream2.htm", 
+        "12/12/97"
+      ], 
+      "Scream": [
+        "/movies/?id=scream.htm", 
+        "12/20/96"
+      ], 
+      "Scream 4": [
+        "/movies/?id=scream4.htm", 
+        "4/15/11", 
+        "6/9/11", 
+        323876
+      ]
+    }, 
+    "name": "Series: Scream"
+  }, 
+  {
+    "movie": {
+      "The Karate Kid Part II": [
+        "/movies/?id=karatekid2.htm", 
+        "6/20/86"
+      ], 
+      "The Next Karate Kid": [
+        "/movies/?id=karatekid4.htm", 
+        "8/12/94"
+      ], 
+      "The Karate Kid": [
+        "/movies/?id=karatekid.htm", 
+        "6/22/84"
+      ], 
+      "The Karate Kid Part III": [
+        "/movies/?id=karatekidpart3.htm", 
+        "6/30/89"
+      ]
+    }, 
+    "name": "Series: The Karate Kid"
+  }, 
+  {
+    "movie": {
+      "Fifty Shades of Grey": [
+        "/movies/?id=fiftyshadesofgrey.htm", 
+        "2/13/15", 
+        "2/26/15", 
+        2483760
+      ], 
+      "Fifty Shades Darker": [
+        "/movies/?id=fiftyshadesdarker.htm", 
+        "2/10/17", 
+        "2/9/17", 
+        1269853
+      ]
+    }, 
+    "name": "Series: Fifty Shades"
+  }, 
+  {
+    "movie": {
+      "Hotel Transylvania": [
+        "/movies/?id=hoteltransylvania.htm", 
+        "9/28/12", 
+        "1/17/13", 
+        4702065
+      ], 
+      "Hotel Transylvania 2": [
+        "/movies/?id=hoteltransylvania2.htm", 
+        "9/25/15", 
+        "12/24/15", 
+        9239158
+      ]
+    }, 
+    "name": "Series: Hotel Transylvania"
+  }, 
+  {
+    "movie": {
+      "Pirates of the Caribbean: Dead Man's Chest": [
+        "/movies/?id=piratesofthecaribbean2.htm", 
+        "7/7/06", 
+        "7/6/06", 
+        26600000
+      ], 
+      "Pirates of the Caribbean: The Curse of the Black Pearl": [
+        "/movies/?id=piratesofthecaribbean.htm", 
+        "7/9/03", 
+        "NA", 
+        "NA"
+      ], 
+      "Pirates of the Caribbean: At World's End": [
+        "/movies/?id=piratesofthecaribbean3.htm", 
+        "5/25/07", 
+        "5/23/07", 
+        31568003
+      ], 
+      "Pirates of the Caribbean: On Stranger Tides": [
+        "/movies/?id=piratesofthecaribbean4.htm", 
+        "5/20/11", 
+        "5/19/11", 
+        25635913
+      ]
+    }, 
+    "name": "Series: Pirates of the Caribbean"
+  }, 
+  {
+    "movie": {
+      "Mission: Impossible - Ghost Protocol": [
+        "/movies/?id=mi4.htm", 
+        "12/16/11", 
+        "12/15/11", 
+        51069827
+      ], 
+      "Mission: Impossible III": [
+        "/movies/?id=mi3.htm", 
+        "5/5/06", 
+        "5/3/06", 
+        37618495
+      ], 
+      "Mission: Impossible": [
+        "/movies/?id=missionimpossible.htm", 
+        "5/22/96"
+      ], 
+      "Mission: Impossible II": [
+        "/movies/?id=mi2.htm", 
+        "5/24/00", 
+        "6/17/00", 
+        13587885
+      ], 
+      "Mission: Impossible - Rogue Nation": [
+        "/movies/?id=mi5.htm", 
+        "7/31/15", 
+        "7/30/15", 
+        41600001
+      ]
+    }, 
+    "name": "Series: Mission: Impossible"
+  }, 
+  {
+    "movie": {
+      "Ip Man 3": [
+        "/movies/?id=ipman3.htm", 
+        "1/22/16", 
+        "3/10/16", 
+        336820
+      ], 
+      "Ip Man 2: Legend of the Grandmaster": [
+        "/movies/?id=ipman2.htm", 
+        "1/28/11", 
+        "6/17/10", 
+        346491
+      ], 
+      "Ip Man: The Final Fight": [
+        "/movies/?id=ipman2013.htm", 
+        "9/20/13", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Ip Man Franchise"
+  }, 
+  {
+    "movie": {
+      "Robocop": [
+        "/movies/?id=robocop.htm", 
+        "7/17/87"
+      ], 
+      "RoboCop (2014)": [
+        "/movies/?id=robocop2013.htm", 
+        "2/12/14", 
+        "2/13/14", 
+        6876965
+      ], 
+      "Robocop 3": [
+        "/movies/?id=robocop3.htm", 
+        "11/5/93"
+      ], 
+      "Robocop 2": [
+        "/movies/?id=robocop2.htm", 
+        "6/22/90"
+      ]
+    }, 
+    "name": "Series: Robocop"
+  }, 
+  {
+    "movie": {
+      "Planet of the Apes (2001)": [
+        "/movies/?id=planetoftheapes01.htm", 
+        "7/27/01", 
+        "NA", 
+        "NA"
+      ], 
+      "Conquest of the Planet of the Apes": [
+        "/movies/?id=conquestoftheplanetoftheapes.htm", 
+        "6/14/72"
+      ], 
+      "Dawn of the Planet of the Apes": [
+        "/movies/?id=dawnoftheapes.htm", 
+        "7/11/14", 
+        "7/10/14", 
+        30594006
+      ], 
+      "Escape from the Planet of the Apes": [
+        "/movies/?id=escapefromtheplanetoftheapes.htm", 
+        "5/21/71"
+      ], 
+      "Rise of the Planet of the Apes": [
+        "/movies/?id=riseoftheapes.htm", 
+        "8/5/11", 
+        "8/17/11", 
+        17321073
+      ], 
+      "Beneath the Planet of the Apes": [
+        "/movies/?id=beneaththeplanetoftheapes.htm", 
+        "5/27/70"
+      ], 
+      "Battle for the Planet of the Apes": [
+        "/movies/?id=battlefortheplanetoftheapes.htm", 
+        "5/23/73"
+      ], 
+      "Planet of the Apes": [
+        "/movies/?id=planetoftheapes.htm", 
+        "2/8/68"
+      ]
+    }, 
+    "name": "Series: Planet of the Apes"
+  }, 
+  {
+    "movie": {
+      "Conan the Destroyer": [
+        "/movies/?id=conanthedestroyer.htm", 
+        "6/29/84"
+      ], 
+      "Conan the Barbarian": [
+        "/movies/?id=conanthebarbarian.htm", 
+        "5/14/82"
+      ], 
+      "Conan the Barbarian (2011)": [
+        "/movies/?id=conan3d.htm", 
+        "8/19/11", 
+        "4/5/12", 
+        166825
+      ]
+    }, 
+    "name": "Series: Conan"
+  }, 
+  {
+    "movie": {
+      "Bridget Jones's Baby": [
+        "/movies/?id=bridgetjonessbaby.htm", 
+        "9/16/16", 
+        "9/28/16", 
+        6027546
+      ], 
+      "Bridget Jones: The Edge of Reason": [
+        "/movies/?id=bridgetjones2.htm", 
+        "11/12/04", 
+        "12/9/04", 
+        9462984
+      ], 
+      "Bridget Jones's Diary": [
+        "/movies/?id=bridgetjonessdiary.htm", 
+        "4/13/01", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Bridget Jones's Trilogy"
+  }, 
+  {
+    "movie": {
+      "The Fast and the Furious": [
+        "/movies/?id=fastandfurious.htm", 
+        "6/22/01", 
+        "4/16/09", 
+        938
+      ], 
+      "Furious 7": [
+        "/movies/?id=fast7.htm", 
+        "4/3/15", 
+        "4/1/15", 
+        24037905
+      ], 
+      "Fast and Furious": [
+        "/movies/?id=fastandthefurious4.htm", 
+        "4/3/09", 
+        "4/2/09", 
+        3616904
+      ], 
+      "Fast Five": [
+        "/movies/?id=fastfive.htm", 
+        "4/29/11", 
+        "4/20/11", 
+        11367543
+      ], 
+      "2 Fast 2 Furious": [
+        "/movies/?id=2fast2furious.htm", 
+        "6/6/03", 
+        "9/5/03", 
+        1205847
+      ], 
+      "Fast & Furious 6": [
+        "/movies/?id=fast6.htm", 
+        "5/24/13", 
+        "5/22/13", 
+        11621107
+      ], 
+      "The Fast and the Furious: Tokyo Drift": [
+        "/movies/?id=fastandthefurious3.htm", 
+        "6/16/06", 
+        "7/21/06", 
+        1259941
+      ]
+    }, 
+    "name": "Series: The Fast and the Furious"
+  }, 
+  {
+    "movie": {
+      "Tomorrow Never Dies": [
+        "/movies/?id=tomorrowneverdies.htm", 
+        "12/19/97"
+      ], 
+      "Octopussy": [
+        "/movies/?id=octopussy.htm", 
+        "6/10/83"
+      ], 
+      "Quantum of Solace": [
+        "/movies/?id=jamesbond22.htm", 
+        "11/14/08", 
+        "11/5/08", 
+        11562123
+      ], 
+      "You Only Live Twice": [
+        "/movies/?id=youonlylivetwice.htm", 
+        "6/13/67"
+      ], 
+      "A View to a Kill": [
+        "/movies/?id=viewtoakill.htm", 
+        "5/24/85"
+      ], 
+      "GoldenEye": [
+        "/movies/?id=goldeneye.htm", 
+        "11/17/95"
+      ], 
+      "From Russia with Love": [
+        "/movies/?id=fromrussiawithlove.htm", 
+        "4/8/64"
+      ], 
+      "Die Another Day": [
+        "/movies/?id=dieanotherday.htm", 
+        "11/22/02", 
+        "1/3/03", 
+        3409983
+      ], 
+      "Moonraker": [
+        "/movies/?id=moonraker.htm", 
+        "6/29/79"
+      ], 
+      "Skyfall": [
+        "/movies/?id=bond23.htm", 
+        "11/9/12", 
+        "10/26/12", 
+        16050743
+      ], 
+      "Never Say Never Again": [
+        "/movies/?id=neversayneveragain.htm", 
+        "10/7/83"
+      ], 
+      "Thunderball": [
+        "/movies/?id=thunderball.htm", 
+        "12/21/65"
+      ], 
+      "Licence to Kill": [
+        "/movies/?id=licensetokill.htm", 
+        "7/14/89"
+      ], 
+      "The Man with the Golden Gun": [
+        "/movies/?id=manwiththegoldengun.htm", 
+        "12/18/74"
+      ], 
+      "The Living Daylights": [
+        "/movies/?id=livingdaylights.htm", 
+        "7/31/87"
+      ], 
+      "Spectre": [
+        "/movies/?id=bond24.htm", 
+        "11/6/15", 
+        "11/11/15", 
+        12053239
+      ], 
+      "The Spy Who Loved Me": [
+        "/movies/?id=spywholovedme.htm", 
+        "7/13/77"
+      ], 
+      "Diamonds Are Forever": [
+        "/movies/?id=diamondsareforever.htm", 
+        "12/17/71"
+      ], 
+      "On Her Majesty's Secret Service": [
+        "/movies/?id=onhermajestyssecretservice.htm", 
+        "12/18/69"
+      ], 
+      "For Your Eyes Only": [
+        "/movies/?id=foryoureyesonly.htm", 
+        "6/26/81"
+      ], 
+      "Casino Royale": [
+        "/movies/?id=jamesbond21.htm", 
+        "11/17/06", 
+        "12/21/06", 
+        7267075
+      ], 
+      "Dr No": [
+        "/movies/?id=drno.htm", 
+        "5/8/63"
+      ], 
+      "The World Is Not Enough": [
+        "/movies/?id=worldisnotenough.htm", 
+        "11/19/99"
+      ], 
+      "Live and Let Die": [
+        "/movies/?id=liveandletdie.htm", 
+        "6/27/73"
+      ], 
+      "Goldfinger": [
+        "/movies/?id=goldfinger.htm", 
+        "12/22/64"
+      ]
+    }, 
+    "name": "Series: James Bond"
+  }, 
+  {
+    "movie": {
+      "Men in Black": [
+        "/movies/?id=meninblack.htm", 
+        "7/2/97"
+      ], 
+      "Men in Black II": [
+        "/movies/?id=meninblack2.htm", 
+        "7/3/02", 
+        "7/12/02", 
+        11880470
+      ], 
+      "MIB 3": [
+        "/movies/?id=mib3.htm", 
+        "5/25/12", 
+        "5/24/12", 
+        23488262
+      ]
+    }, 
+    "name": "Series: Men in Black"
+  }, 
+  {
+    "movie": {
+      "The Twilight Saga: New Moon": [
+        "/movies/?id=newmoon.htm", 
+        "11/20/09", 
+        "12/2/09", 
+        12011262
+      ], 
+      "Twilight": [
+        "/movies/?id=twilight08.htm", 
+        "11/21/08", 
+        "12/11/08", 
+        7659813
+      ], 
+      "The Twilight Saga: Eclipse": [
+        "/movies/?id=eclipse.htm", 
+        "6/30/10", 
+        "7/7/10", 
+        12591297
+      ], 
+      "The Twilight Saga: Breaking Dawn Part 2": [
+        "/movies/?id=breakingdawn2.htm", 
+        "11/16/12", 
+        "11/15/12", 
+        17418074
+      ], 
+      "The Twilight Saga: Breaking Dawn Part 1": [
+        "/movies/?id=breakingdawn.htm", 
+        "11/18/11", 
+        "11/30/11", 
+        9282393
+      ]
+    }, 
+    "name": "Series: Twilight"
+  }, 
+  {
+    "movie": {
+      "Dumb and Dumberer: When Harry Met Lloyd": [
+        "/movies/?id=dumbanddumberer.htm", 
+        "6/13/03", 
+        "NA", 
+        "NA"
+      ], 
+      "Dumb and Dumber": [
+        "/movies/?id=dumbanddumber.htm", 
+        "12/16/94"
+      ], 
+      "Dumb and Dumber To": [
+        "/movies/?id=dumberto.htm", 
+        "11/14/14", 
+        "11/27/14", 
+        1290534
+      ]
+    }, 
+    "name": "Series: Dumb and Dumber"
+  }, 
+  {
+    "movie": {
+      "Saw V": [
+        "/movies/?id=saw5.htm", 
+        "10/24/08", 
+        "12/4/08", 
+        798030
+      ], 
+      "Saw IV": [
+        "/movies/?id=saw4.htm", 
+        "10/26/07", 
+        "11/22/07", 
+        1892284
+      ], 
+      "Saw VI": [
+        "/movies/?id=saw6.htm", 
+        "10/23/09", 
+        "1/17/10", 
+        139111
+      ], 
+      "Saw 3D": [
+        "/movies/?id=saw7.htm", 
+        "10/29/10", 
+        "11/18/10", 
+        1269754
+      ], 
+      "Saw II": [
+        "/movies/?id=saw2.htm", 
+        "10/28/05", 
+        "5/1/06", 
+        2273378
+      ], 
+      "Saw III": [
+        "/movies/?id=saw3.htm", 
+        "10/27/06", 
+        "11/30/06", 
+        2079063
+      ], 
+      "Saw": [
+        "/movies/?id=saw.htm", 
+        "10/29/04", 
+        "3/10/05", 
+        1353150
+      ]
+    }, 
+    "name": "Series: Saw"
+  }, 
+  {
+    "movie": {
+      "Despicable Me": [
+        "/movies/?id=despicableme.htm", 
+        "7/9/10", 
+        "9/16/10", 
+        8661240
+      ], 
+      "Minions": [
+        "/movies/?id=minions.htm", 
+        "7/10/15", 
+        "7/29/15", 
+        15354584
+      ], 
+      "Despicable Me 2": [
+        "/movies/?id=despicableme2.htm", 
+        "7/3/13", 
+        "9/12/13", 
+        6109051
+      ]
+    }, 
+    "name": "Series: Despicable Me"
+  }, 
+  {
+    "movie": {
+      "Sinister 2": [
+        "/movies/?id=sinister2.htm", 
+        "8/21/15", 
+        "NA", 
+        "NA"
+      ], 
+      "Sinister": [
+        "/movies/?id=sinister.htm", 
+        "10/12/12", 
+        "11/15/12", 
+        229837
+      ]
+    }, 
+    "name": "Series: Sinister"
+  }, 
+  {
+    "movie": {
+      "Before Midnight": [
+        "/movies/?id=beforemidnight.htm", 
+        "5/24/13", 
+        "5/22/13", 
+        1355747
+      ], 
+      "Before Sunset": [
+        "/movies/?id=beforesunset.htm", 
+        "7/2/04", 
+        "10/23/04", 
+        797788
+      ], 
+      "Before Sunrise": [
+        "/movies/?id=beforesunrise.htm", 
+        "1/27/95"
+      ]
+    }, 
+    "name": "Series: Before"
+  }, 
+  {
+    "movie": {
+      "Iron Man": [
+        "/movies/?id=ironman.htm", 
+        "5/2/08", 
+        "4/30/08", 
+        25169783
+      ], 
+      "Iron Man 3": [
+        "/movies/?id=ironman3.htm", 
+        "5/3/13", 
+        "4/25/13", 
+        64211513
+      ], 
+      "Iron Man 2": [
+        "/movies/?id=ironman2.htm", 
+        "5/7/10", 
+        "4/29/10", 
+        27095727
+      ]
+    }, 
+    "name": "Series: Iron Man"
+  }, 
+  {
+    "movie": {
+      "Jackass Presents: Bad Grandpa": [
+        "/movies/?id=badgrandpa.htm", 
+        "10/25/13", 
+        "NA", 
+        "NA"
+      ], 
+      "Jackass: Number Two": [
+        "/movies/?id=jackass2.htm", 
+        "9/22/06", 
+        "NA", 
+        "NA"
+      ], 
+      "Jackass: The Movie": [
+        "/movies/?id=jackass.htm", 
+        "10/25/02", 
+        "NA", 
+        "NA"
+      ], 
+      "Jackass 3-D": [
+        "/movies/?id=jackass3d.htm", 
+        "10/15/10", 
+        "4/14/11", 
+        1847
+      ]
+    }, 
+    "name": "Series: Jackass"
+  }, 
+  {
+    "movie": {
+      "Harry Potter and the Half-Blood Prince": [
+        "/movies/?id=harrypotter6.htm", 
+        "7/15/09", 
+        "7/15/09", 
+        16089292
+      ], 
+      "Harry Potter IMAX Marathon": [
+        "/movies/?id=harrypotterimaxmarathon.htm", 
+        "10/14/16", 
+        "NA", 
+        "NA"
+      ], 
+      "Harry Potter and the Deathly Hallows Part 1": [
+        "/movies/?id=harrypotter7.htm", 
+        "11/19/10", 
+        "12/16/10", 
+        18084930
+      ], 
+      "Harry Potter and the Deathly Hallows Part 2": [
+        "/movies/?id=harrypotter72.htm", 
+        "7/15/11", 
+        "7/14/11", 
+        30563414
+      ], 
+      "Harry Potter and the Prisoner of Azkaban": [
+        "/movies/?id=harrypotter3.htm", 
+        "6/4/04", 
+        "7/15/04", 
+        9100000
+      ], 
+      "Harry Potter and the Goblet of Fire": [
+        "/movies/?id=harrypotter4.htm", 
+        "11/18/05", 
+        "12/2/05", 
+        23161873
+      ], 
+      "Harry Potter and the Chamber of Secrets": [
+        "/movies/?id=harrypotter2.htm", 
+        "11/15/02", 
+        "12/13/02", 
+        25361777
+      ], 
+      "Harry Potter and the Order of the Phoenix": [
+        "/movies/?id=harrypotter5.htm", 
+        "7/11/07", 
+        "7/11/07", 
+        24765134
+      ], 
+      "Harry Potter and the Sorcerer's Stone": [
+        "/movies/?id=harrypotter.htm", 
+        "11/16/01", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Harry Potter"
+  }, 
+  {
+    "movie": {
+      "Kingsman: The Secret Service": [
+        "/movies/?id=secretservice.htm", 
+        "2/13/15", 
+        "2/11/15", 
+        46885360
+      ]
+    }, 
+    "name": "Series: Kingsman Franchise"
+  }, 
+  {
+    "movie": {
+      "Shin Godzilla": [
+        "/movies/?id=shingodzilla.htm", 
+        "10/11/16", 
+        "NA", 
+        "NA"
+      ], 
+      "Godzilla": [
+        "/movies/?id=godzilla.htm", 
+        "5/20/98"
+      ], 
+      "Godzilla (2014)": [
+        "/movies/?id=godzilla2012.htm", 
+        "5/16/14", 
+        "5/15/14", 
+        5690138
+      ], 
+      "Godzilla 1985": [
+        "/movies/?id=godzilla1985.htm", 
+        "8/23/85"
+      ], 
+      "Godzilla 2000": [
+        "/movies/?id=godzilla2000.htm", 
+        "8/18/00", 
+        "NA", 
+        "NA"
+      ], 
+      "Godzilla (Original Japanese Version)": [
+        "/movies/?id=godzilla04.htm", 
+        "5/7/04", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Godzilla"
+  }, 
+  {
+    "movie": {
+      "Cars": [
+        "/movies/?id=cars.htm", 
+        "6/9/06", 
+        "7/20/06", 
+        3026329
+      ], 
+      "Cars 2": [
+        "/movies/?id=cars2.htm", 
+        "6/24/11", 
+        "7/21/11", 
+        3399582
+      ]
+    }, 
+    "name": "Series: Cars"
+  }, 
+  {
+    "movie": {
+      "Man of Steel": [
+        "/movies/?id=superman2012.htm", 
+        "6/14/13", 
+        "6/13/13", 
+        14993036
+      ], 
+      "Batman v Superman: Dawn of Justice": [
+        "/movies/?id=superman2015.htm", 
+        "3/25/16", 
+        "3/24/16", 
+        16457193
+      ], 
+      "Superman IV: The Quest for Peace": [
+        "/movies/?id=superman4.htm", 
+        "7/24/87"
+      ], 
+      "Superman II": [
+        "/movies/?id=superman2.htm", 
+        "6/19/81"
+      ], 
+      "Superman III": [
+        "/movies/?id=superman3.htm", 
+        "6/17/83"
+      ], 
+      "Superman Returns": [
+        "/movies/?id=superman06.htm", 
+        "6/28/06", 
+        "6/28/06", 
+        11800000
+      ], 
+      "Superman": [
+        "/movies/?id=superman.htm", 
+        "12/15/78"
+      ]
+    }, 
+    "name": "Series: Superman"
+  }, 
+  {
+    "movie": {
+      "Cloverfield": [
+        "/movies/?id=cloverfield.htm", 
+        "1/18/08", 
+        "1/24/08", 
+        3869339
+      ], 
+      "10 Cloverfield Lane": [
+        "/movies/?id=badrobot2016.htm", 
+        "3/11/16", 
+        "4/7/16", 
+        2525730
+      ]
+    }, 
+    "name": "Series: Cloverfield"
+  }, 
+  {
+    "movie": {
+      "Alien 3": [
+        "/movies/?id=alien3.htm", 
+        "5/22/92"
+      ], 
+      "Aliens": [
+        "/movies/?id=aliens.htm", 
+        "7/18/86"
+      ], 
+      "Alien Vs Predator": [
+        "/movies/?id=avp.htm", 
+        "8/13/04", 
+        "9/3/04", 
+        1571441
+      ], 
+      "Alien": [
+        "/movies/?id=alien.htm", 
+        "5/25/79"
+      ], 
+      "Prometheus": [
+        "/movies/?id=prometheus.htm", 
+        "6/8/12", 
+        "6/6/12", 
+        7024145
+      ], 
+      "Aliens Vs Predator - Requiem": [
+        "/movies/?id=avp2.htm", 
+        "12/25/07", 
+        "1/17/08", 
+        1915120
+      ], 
+      "Alien Resurrection": [
+        "/movies/?id=alienresurrection.htm", 
+        "11/26/97"
+      ]
+    }, 
+    "name": "Series: Alien"
+  }, 
+  {
+    "movie": {
+      "Underworld Awakening": [
+        "/movies/?id=underworld4.htm", 
+        "1/20/12", 
+        "2/22/12", 
+        932901
+      ], 
+      "Underworld: Blood Wars": [
+        "/movies/?id=underworld5.htm", 
+        "1/6/17", 
+        "11/30/16", 
+        479873
+      ], 
+      "Underworld": [
+        "/movies/?id=underworld.htm", 
+        "9/19/03", 
+        "NA", 
+        "NA"
+      ], 
+      "Underworld: Evolution": [
+        "/movies/?id=underworld2.htm", 
+        "1/20/06", 
+        "2/23/06", 
+        2708124
+      ], 
+      "Underworld: Rise of the Lycans": [
+        "/movies/?id=underworld3.htm", 
+        "1/23/09", 
+        "4/30/09", 
+        218346
+      ]
+    }, 
+    "name": "Series: Underworld"
+  }, 
+  {
+    "movie": {
+      "Star Trek: Insurrection": [
+        "/movies/?id=startrek9.htm", 
+        "12/11/98"
+      ], 
+      "Star Trek: The Motion Picture": [
+        "/movies/?id=startrek.htm", 
+        "12/7/79"
+      ], 
+      "Star Trek IV: The Voyage Home": [
+        "/movies/?id=startrek4.htm", 
+        "11/26/86"
+      ], 
+      "Star Trek VI: The Undiscovered Country": [
+        "/movies/?id=startrek6.htm", 
+        "12/6/91"
+      ], 
+      "Star Trek II: The Wrath of Khan": [
+        "/movies/?id=startrek2.htm", 
+        "6/4/82"
+      ], 
+      "Star Trek: Generations": [
+        "/movies/?id=startrek7.htm", 
+        "11/18/94"
+      ], 
+      "Star Trek: Nemesis": [
+        "/movies/?id=startrek10.htm", 
+        "12/13/02", 
+        "NA", 
+        "NA"
+      ], 
+      "Star Trek": [
+        "/movies/?id=startrek11.htm", 
+        "5/8/09", 
+        "5/7/09", 
+        5686001
+      ], 
+      "Star Trek V: The Final Frontier": [
+        "/movies/?id=startrek5.htm", 
+        "6/9/89"
+      ], 
+      "Star Trek Into Darkness": [
+        "/movies/?id=startrek12.htm", 
+        "5/16/13", 
+        "5/30/13", 
+        11427281
+      ], 
+      "Star Trek: First Contact": [
+        "/movies/?id=startrek8.htm", 
+        "11/22/96"
+      ], 
+      "Star Trek III: The Search for Spock": [
+        "/movies/?id=startrek3.htm", 
+        "6/1/84"
+      ], 
+      "Star Trek Beyond": [
+        "/movies/?id=startrek2016.htm", 
+        "7/22/16", 
+        "8/18/16", 
+        9126493
+      ]
+    }, 
+    "name": "Series: Star Trek"
+  }, 
+  {
+    "movie": {
+      "Jason Bourne": [
+        "/movies/?id=bourne5.htm", 
+        "7/29/16", 
+        "7/27/16", 
+        19102134
+      ], 
+      "The Bourne Supremacy": [
+        "/movies/?id=bournesupremacy.htm", 
+        "7/23/04", 
+        "8/20/04", 
+        3152215
+      ], 
+      "The Bourne Ultimatum": [
+        "/movies/?id=bourneultimatum.htm", 
+        "8/3/07", 
+        "9/13/07", 
+        14503283
+      ], 
+      "The Bourne Legacy": [
+        "/movies/?id=bourne4.htm", 
+        "8/10/12", 
+        "9/6/12", 
+        6446308
+      ], 
+      "The Bourne Identity": [
+        "/movies/?id=bourneidentity.htm", 
+        "6/14/02", 
+        "10/18/02", 
+        2640510
+      ]
+    }, 
+    "name": "Series: Bourne"
+  }, 
+  {
+    "movie": {
+      "The Expendables 3": [
+        "/movies/?id=expendables3.htm", 
+        "8/15/14", 
+        "8/20/14", 
+        886603
+      ], 
+      "The Expendables 2": [
+        "/movies/?id=expendables2.htm", 
+        "8/17/12", 
+        "9/6/12", 
+        2661741
+      ], 
+      "The Expendables": [
+        "/movies/?id=expendables.htm", 
+        "8/13/10", 
+        "8/19/10", 
+        2544340
+      ]
+    }, 
+    "name": "Series: The Expendables"
+  }, 
+  {
+    "movie": {
+      "Avengers: Age of Ultron": [
+        "/movies/?id=avengers2.htm", 
+        "5/1/15", 
+        "4/23/15", 
+        78286828
+      ], 
+      "Marvel's The Avengers": [
+        "/movies/?id=avengers11.htm", 
+        "5/4/12", 
+        "4/26/12", 
+        50683851
+      ]
+    }, 
+    "name": "Series: Avengers"
+  }, 
+  {
+    "movie": {
+      "Godzilla (2014)": [
+        "/movies/?id=godzilla2012.htm", 
+        "5/16/14", 
+        "5/15/14", 
+        5690138
+      ]
+    }, 
+    "name": "Series: Godzilla and Kong Universe"
+  }, 
+  {
+    "movie": {
+      "Terminator: Genisys": [
+        "/movies/?id=terminator2015.htm", 
+        "7/1/15", 
+        "7/2/15", 
+        23203894
+      ], 
+      "Terminator 3: Rise of the Machines": [
+        "/movies/?id=terminator3.htm", 
+        "7/2/03", 
+        "NA", 
+        "NA"
+      ], 
+      "The Terminator": [
+        "/movies/?id=terminator.htm", 
+        "10/26/84"
+      ], 
+      "Terminator Salvation": [
+        "/movies/?id=terminatorsalvation.htm", 
+        "5/21/09", 
+        "5/21/09", 
+        23353191
+      ], 
+      "Terminator 2: Judgment Day": [
+        "/movies/?id=terminator2.htm", 
+        "7/3/91"
+      ]
+    }, 
+    "name": "Series: Terminator"
+  }, 
+  {
+    "movie": {
+      "Penguins of Madagascar": [
+        "/movies/?id=penguinsofmadagascar.htm", 
+        "11/26/14", 
+        "12/31/14", 
+        11049815
+      ], 
+      "Madagascar": [
+        "/movies/?id=madagascar.htm", 
+        "5/27/05", 
+        "7/14/05", 
+        9754887
+      ], 
+      "Madagascar 3: Europe's Most Wanted": [
+        "/movies/?id=madagascar3.htm", 
+        "6/8/12", 
+        "6/6/12", 
+        10888841
+      ], 
+      "Madagascar: Escape 2 Africa": [
+        "/movies/?id=madagascar2.htm", 
+        "11/7/08", 
+        "1/8/09", 
+        5427400
+      ]
+    }, 
+    "name": "Series: Madagascar"
+  }, 
+  {
+    "movie": {
+      "Freddy Vs Jason": [
+        "/movies/?id=freddyvsjason.htm", 
+        "8/15/03", 
+        "NA", 
+        "NA"
+      ], 
+      "A Nightmare on Elm Street 3: Dream Warriors": [
+        "/movies/?id=elmst3.htm", 
+        "2/27/87"
+      ], 
+      "A Nightmare on Elm Street": [
+        "/movies/?id=elmst.htm", 
+        "11/9/84"
+      ], 
+      "A Nightmare on Elm Street 5: The Dream Child": [
+        "/movies/?id=elmst5.htm", 
+        "8/11/89"
+      ], 
+      "A Nightmare on Elm Street 2: Freddy's Revenge": [
+        "/movies/?id=elmst2.htm", 
+        "11/1/85"
+      ], 
+      "A Nightmare on Elm Street (2010)": [
+        "/movies/?id=nightmareonelmstreet10.htm", 
+        "4/30/10", 
+        "5/20/10", 
+        564542
+      ], 
+      "Wes Craven's New Nightmare": [
+        "/movies/?id=newnightmare.htm", 
+        "10/14/94"
+      ], 
+      "Freddy's Dead: The Final Nightmare": [
+        "/movies/?id=freddysdeadfinalnightmare.htm", 
+        "9/13/91"
+      ], 
+      "A Nightmare on Elm Street 4: The Dream Master": [
+        "/movies/?id=elmst4.htm", 
+        "8/19/88"
+      ]
+    }, 
+    "name": "Series: Nightmare on Elm Street"
+  }, 
+  {
+    "movie": {
+      "Night at the Museum": [
+        "/movies/?id=nightatthemuseum.htm", 
+        "12/22/06", 
+        "12/21/06", 
+        25717320
+      ], 
+      "Night at the Museum: Battle of the Smithsonian": [
+        "/movies/?id=nightatthemuseum2.htm", 
+        "5/22/09", 
+        "6/4/09", 
+        9819667
+      ], 
+      "Night at the Museum: Secret of the Tomb": [
+        "/movies/?id=nightatthemuseum3.htm", 
+        "12/19/14", 
+        "1/14/15", 
+        7209075
+      ]
+    }, 
+    "name": "Series: Night at the Museum"
+  }, 
+  {
+    "movie": {
+      "The Chronicles of Narnia: The Lion the Witch and the Wardrobe": [
+        "/movies/?id=narnia.htm", 
+        "12/9/05", 
+        "12/29/05", 
+        13983100
+      ], 
+      "The Chronicles of Narnia: Prince Caspian": [
+        "/movies/?id=narnia2.htm", 
+        "5/16/08", 
+        "5/15/08", 
+        8943448
+      ], 
+      "The Chronicles of Narnia: The Voyage of the Dawn Treader": [
+        "/movies/?id=narnia3.htm", 
+        "12/10/10", 
+        "12/9/10", 
+        10010532
+      ]
+    }, 
+    "name": "Series: The Chronicles of Narnia"
+  }, 
+  {
+    "movie": {
+      "Meet the Fockers": [
+        "/movies/?id=meetthefockers.htm", 
+        "12/22/04", 
+        "4/15/05", 
+        1606325
+      ], 
+      "Little Fockers": [
+        "/movies/?id=meetthefockerssequel.htm", 
+        "12/22/10", 
+        "3/31/11", 
+        466017
+      ], 
+      "Meet the Parents": [
+        "/movies/?id=meettheparents.htm", 
+        "10/6/00", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Fockers"
+  }, 
+  {
+    "movie": {
+      "The Hangover": [
+        "/movies/?id=hangover.htm", 
+        "6/5/09", 
+        "NA", 
+        "NA"
+      ], 
+      "The Hangover Part II": [
+        "/movies/?id=hangover2.htm", 
+        "5/26/11", 
+        "8/25/11", 
+        423673
+      ], 
+      "The Hangover Part III": [
+        "/movies/?id=hangover3.htm", 
+        "5/23/13", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: The Hangover"
+  }, 
+  {
+    "movie": {
+      "Thor: The Dark World": [
+        "/movies/?id=thor2.htm", 
+        "11/8/13", 
+        "10/30/13", 
+        21114584
+      ], 
+      "Thor": [
+        "/movies/?id=thor.htm", 
+        "5/6/11", 
+        "4/28/11", 
+        14791773
+      ]
+    }, 
+    "name": "Series: Thor"
+  }, 
+  {
+    "movie": {
+      "Fantastic Beasts and Where To Find Them": [
+        "/movies/?id=fantasticbeasts.htm", 
+        "11/18/16", 
+        "11/16/16", 
+        32658059
+      ]
+    }, 
+    "name": "Series: Fantastic Beasts"
+  }, 
+  {
+    "movie": {
+      "The Amazing Spider-Man 2": [
+        "/movies/?id=amazingspiderman2.htm", 
+        "5/2/14", 
+        "4/24/14", 
+        33797633
+      ], 
+      "Spider-Man 3": [
+        "/movies/?id=spiderman3.htm", 
+        "5/4/07", 
+        "5/1/07", 
+        33960701
+      ], 
+      "Spider-Man": [
+        "/movies/?id=spiderman.htm", 
+        "5/3/02", 
+        "5/3/02", 
+        16982856
+      ], 
+      "Spider-Man 2": [
+        "/movies/?id=spiderman2.htm", 
+        "6/30/04", 
+        "6/30/04", 
+        13037416
+      ], 
+      "The Amazing Spider-Man": [
+        "/movies/?id=spiderman4.htm", 
+        "7/3/12", 
+        "6/28/12", 
+        36022835
+      ]
+    }, 
+    "name": "Series: Spider-Man"
+  }, 
+  {
+    "movie": {
+      "X-Men": [
+        "/movies/?id=xmen.htm", 
+        "7/14/00", 
+        "7/27/00", 
+        5100836
+      ], 
+      "Deadpool": [
+        "/movies/?id=deadpool2016.htm", 
+        "2/12/16", 
+        "2/17/16", 
+        23658636
+      ], 
+      "X-Men Origins: Wolverine": [
+        "/movies/?id=wolverine.htm", 
+        "5/1/09", 
+        "4/29/09", 
+        6631942
+      ], 
+      "X-Men: Apocalypse": [
+        "/movies/?id=x-men2016.htm", 
+        "5/27/16", 
+        "5/25/16", 
+        20642326
+      ], 
+      "X-Men: The Last Stand": [
+        "/movies/?id=x3.htm", 
+        "5/26/06", 
+        "6/15/06", 
+        12406569
+      ], 
+      "X2: X-Men United": [
+        "/movies/?id=x2.htm", 
+        "5/2/03", 
+        "5/1/03", 
+        7360012
+      ], 
+      "The Wolverine": [
+        "/movies/?id=wolverine2.htm", 
+        "7/26/13", 
+        "7/25/13", 
+        6967413
+      ], 
+      "X-Men: First Class": [
+        "/movies/?id=xmenfirstclass.htm", 
+        "6/3/11", 
+        "6/2/11", 
+        18028314
+      ], 
+      "X-Men: Days of Future Past": [
+        "/movies/?id=xmen2014.htm", 
+        "5/23/14", 
+        "5/22/14", 
+        33716901
+      ]
+    }, 
+    "name": "Series: X-Men"
+  }, 
+  {
+    "movie": {
+      "Teenage Mutant Ninja Turtles: Out of the Shadows": [
+        "/movies/?id=tmnt2016.htm", 
+        "6/3/16", 
+        "6/16/16", 
+        1607665
+      ], 
+      "Teenage Mutant Ninja Turtles III": [
+        "/movies/?id=tmnt3.htm", 
+        "3/19/93"
+      ], 
+      "TMNT": [
+        "/movies/?id=tmntcg.htm", 
+        "3/23/07", 
+        "4/26/07", 
+        1280002
+      ], 
+      "Teenage Mutant Ninja Turtles (2014)": [
+        "/movies/?id=tmnt2013.htm", 
+        "8/8/14", 
+        "8/28/14", 
+        2592317
+      ], 
+      "Teenage Mutant Ninja Turtles": [
+        "/movies/?id=teenagemutantninjaturtles.htm", 
+        "3/30/90"
+      ], 
+      "Teenage Mutant Ninja Turtles II": [
+        "/movies/?id=tnmt2.htm", 
+        "3/22/91"
+      ]
+    }, 
+    "name": "Series: Teenage Mutant Ninja Turtles"
+  }, 
+  {
+    "movie": {
+      "Pitch Perfect 2": [
+        "/movies/?id=pitchperfect2.htm", 
+        "5/15/15", 
+        "5/28/15", 
+        395314
+      ], 
+      "Pitch Perfect": [
+        "/movies/?id=pitchperfect.htm", 
+        "9/28/12", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Pitch Perfect Trilogy"
+  }, 
+  {
+    "movie": {
+      "Sing": [
+        "/movies/?id=illumination2016.htm", 
+        "12/21/16", 
+        "12/21/16", 
+        11053196
+      ]
+    }, 
+    "name": "Series: Sing"
+  }, 
+  {
+    "movie": {
+      "Fantastic Four (2005)": [
+        "/movies/?id=fantasticfour.htm", 
+        "7/8/05", 
+        "8/12/05", 
+        4383138
+      ], 
+      "Fantastic Four": [
+        "/movies/?id=fantasticfour15.htm", 
+        "8/7/15", 
+        "8/20/15", 
+        1959963
+      ], 
+      "Fantastic Four: Rise of the Silver Surfer": [
+        "/movies/?id=fantasticfour2.htm", 
+        "6/15/07", 
+        "8/8/07", 
+        3974607
+      ]
+    }, 
+    "name": "Series: Fantastic Four"
+  }, 
+  {
+    "movie": {
+      "Alvin and the Chipmunks: The Road Chip": [
+        "/movies/?id=alvin4.htm", 
+        "12/18/15", 
+        "2/4/16", 
+        1713690
+      ], 
+      "Alvin and the Chipmunks": [
+        "/movies/?id=alvinandthechipmunks.htm", 
+        "12/14/07", 
+        "12/19/07", 
+        3747677
+      ], 
+      "The Chipmunk Adventure": [
+        "/movies/?id=chipmunkadventure.htm", 
+        "5/22/87"
+      ], 
+      "Alvin and the Chipmunks: The Squeakquel": [
+        "/movies/?id=alvinandthechipmunksii.htm", 
+        "12/23/09", 
+        "12/30/09", 
+        3604600
+      ], 
+      "Alvin and the Chipmunks: Chipwrecked": [
+        "/movies/?id=alvin3d.htm", 
+        "12/16/11", 
+        "12/15/11", 
+        2956825
+      ]
+    }, 
+    "name": "Series: Alvin and the Chipmunks"
+  }, 
+  {
+    "movie": {
+      "The Wolverine": [
+        "/movies/?id=wolverine2.htm", 
+        "7/26/13", 
+        "7/25/13", 
+        6967413
+      ], 
+      "X-Men Origins: Wolverine": [
+        "/movies/?id=wolverine.htm", 
+        "5/1/09", 
+        "4/29/09", 
+        6631942
+      ]
+    }, 
+    "name": "Series: Wolverine"
+  }, 
+  {
+    "movie": {
+      "Step Up All In": [
+        "/movies/?id=stepup5.htm", 
+        "8/8/14", 
+        "9/3/14", 
+        3683691
+      ], 
+      "Step Up Revolution": [
+        "/movies/?id=stepup4.htm", 
+        "7/27/12", 
+        "8/14/12", 
+        6191133
+      ], 
+      "Step Up 3-D": [
+        "/movies/?id=stepup3d.htm", 
+        "8/6/10", 
+        "8/5/10", 
+        6284146
+      ], 
+      "Step Up": [
+        "/movies/?id=stepup.htm", 
+        "8/11/06", 
+        "11/23/06", 
+        2308955
+      ], 
+      "Step Up 2 the Streets": [
+        "/movies/?id=stepup2.htm", 
+        "2/14/08", 
+        "3/13/08", 
+        6778011
+      ]
+    }, 
+    "name": "Series: Step Up"
+  }, 
+  {
+    "movie": {
+      "Jurassic World": [
+        "/movies/?id=jurassicpark4.htm", 
+        "6/12/15", 
+        "6/11/15", 
+        42836759
+      ], 
+      "Jurassic Park III": [
+        "/movies/?id=jurassicpark3.htm", 
+        "7/18/01", 
+        "NA", 
+        "NA"
+      ], 
+      "The Lost World: Jurassic Park": [
+        "/movies/?id=jurassicpark2.htm", 
+        "5/23/97"
+      ], 
+      "Jurassic Park": [
+        "/movies/?id=jurassicpark.htm", 
+        "6/11/93"
+      ]
+    }, 
+    "name": "Series: Jurassic Park"
+  }, 
+  {
+    "movie": {
+      "Mad Max Beyond Thunderdome": [
+        "/movies/?id=madmaxbeyondthunderdome.htm", 
+        "7/12/85"
+      ], 
+      "Mad Max: Fury Road": [
+        "/movies/?id=furyroad.htm", 
+        "5/15/15", 
+        "5/14/15", 
+        27592117
+      ], 
+      "The Road Warrior": [
+        "/movies/?id=roadwarrior.htm", 
+        "5/21/82"
+      ], 
+      "Mad Max": [
+        "/movies/?id=madmax.htm", 
+        "3/21/80"
+      ]
+    }, 
+    "name": "Series: Mad Max"
+  }, 
+  {
+    "movie": {
+      "Shrek the Third": [
+        "/movies/?id=shrek3.htm", 
+        "5/18/07", 
+        "6/6/07", 
+        19244791
+      ], 
+      "Shrek 2": [
+        "/movies/?id=shrek2.htm", 
+        "5/19/04", 
+        "6/17/04", 
+        18123377
+      ], 
+      "Puss in Boots": [
+        "/movies/?id=pussinboots12.htm", 
+        "10/28/11", 
+        "1/12/12", 
+        15127312
+      ], 
+      "Shrek": [
+        "/movies/?id=shrek.htm", 
+        "5/16/01", 
+        "7/6/01", 
+        10455458
+      ], 
+      "Shrek Forever After": [
+        "/movies/?id=shrek4.htm", 
+        "5/21/10", 
+        "7/1/10", 
+        21164006
+      ]
+    }, 
+    "name": "Series: Shrek"
+  }, 
+  {
+    "movie": {
+      "The Transporter": [
+        "/movies/?id=transporter.htm", 
+        "10/11/02", 
+        "1/31/03", 
+        349581
+      ], 
+      "Transporter 3": [
+        "/movies/?id=transporter3.htm", 
+        "11/26/08", 
+        "1/8/09", 
+        4454269
+      ], 
+      "Transporter 2": [
+        "/movies/?id=transporter2.htm", 
+        "9/2/05", 
+        "10/21/05", 
+        590393
+      ], 
+      "The Transporter Refueled": [
+        "/movies/?id=transporter4.htm", 
+        "9/4/15", 
+        "10/15/15", 
+        1096229
+      ]
+    }, 
+    "name": "Series: Transporter"
+  }, 
+  {
+    "movie": {
+      "The Hobbit: An Unexpected Journey": [
+        "/movies/?id=hobbit.htm", 
+        "12/14/12", 
+        "12/13/12", 
+        21688449
+      ], 
+      "The Hobbit: The Desolation of Smaug": [
+        "/movies/?id=hobbit2.htm", 
+        "12/13/13", 
+        "12/12/13", 
+        16392050
+      ], 
+      "The Hobbit: The Battle of the Five Armies": [
+        "/movies/?id=hobbit3.htm", 
+        "12/17/14", 
+        "12/17/14", 
+        22351681
+      ]
+    }, 
+    "name": "Series: The Hobbit"
+  }, 
+  {
+    "movie": {
+      "How to Train Your Dragon": [
+        "/movies/?id=howtotrainyourdragon.htm", 
+        "3/26/10", 
+        "5/20/10", 
+        25108317
+      ], 
+      "How to Train Your Dragon 2": [
+        "/movies/?id=howtotrainyourdragon2.htm", 
+        "6/13/14", 
+        "7/23/14", 
+        22610977
+      ]
+    }, 
+    "name": "Series: How to Train Your Dragon"
+  }, 
+  {
+    "movie": {
+      "Minions": [
+        "/movies/?id=minions.htm", 
+        "7/10/15", 
+        "7/29/15", 
+        15354584
+      ]
+    }, 
+    "name": "Series: Minions"
+  }, 
+  {
+    "movie": {
+      "The Divergent Series: Insurgent": [
+        "/movies/?id=insurgent.htm", 
+        "3/20/15", 
+        "3/25/15", 
+        1915843
+      ], 
+      "The Divergent Series: Allegiant": [
+        "/movies/?id=allegiant.htm", 
+        "3/18/16", 
+        "5/11/16", 
+        695661
+      ], 
+      "Divergent": [
+        "/movies/?id=divergent.htm", 
+        "3/21/14", 
+        "4/17/14", 
+        2998675
+      ]
+    }, 
+    "name": "Series: Divergent"
+  }, 
+  {
+    "movie": {
+      "Evangelion: 30 You Can (Not) Redo": [
+        "/movies/?id=evangelion3.htm", 
+        "1/10/14", 
+        "4/25/13", 
+        213459
+      ], 
+      "Evangelion 10 You Are (Not) Alone": [
+        "/movies/?id=evangelion1.htm", 
+        "7/3/09", 
+        "NA", 
+        "NA"
+      ], 
+      "Evangelion 20: You Can (Not) Advance": [
+        "/movies/?id=evangelion2.htm", 
+        "1/21/11", 
+        "12/3/09", 
+        435562
+      ]
+    }, 
+    "name": "Series: Evangelion"
+  }, 
+  {
+    "movie": {
+      "Inferno": [
+        "/movies/?id=inferno2015.htm", 
+        "10/28/16", 
+        "10/19/16", 
+        5013643
+      ], 
+      "Angels & Demons": [
+        "/movies/?id=angelsanddemons.htm", 
+        "5/15/09", 
+        "5/14/09", 
+        9887278
+      ], 
+      "The Da Vinci Code": [
+        "/movies/?id=davincicode.htm", 
+        "5/19/06", 
+        "5/18/06", 
+        21959009
+      ]
+    }, 
+    "name": "Series: Robert Langdon"
+  }, 
+  {
+    "movie": {
+      "Harry Potter and the Half-Blood Prince": [
+        "/movies/?id=harrypotter6.htm", 
+        "7/15/09", 
+        "7/15/09", 
+        16089292
+      ], 
+      "Harry Potter IMAX Marathon": [
+        "/movies/?id=harrypotterimaxmarathon.htm", 
+        "10/14/16", 
+        "NA", 
+        "NA"
+      ], 
+      "Harry Potter and the Deathly Hallows Part 1": [
+        "/movies/?id=harrypotter7.htm", 
+        "11/19/10", 
+        "12/16/10", 
+        18084930
+      ], 
+      "Harry Potter and the Deathly Hallows Part 2": [
+        "/movies/?id=harrypotter72.htm", 
+        "7/15/11", 
+        "7/14/11", 
+        30563414
+      ], 
+      "Harry Potter and the Prisoner of Azkaban": [
+        "/movies/?id=harrypotter3.htm", 
+        "6/4/04", 
+        "7/15/04", 
+        9100000
+      ], 
+      "Fantastic Beasts and Where To Find Them": [
+        "/movies/?id=fantasticbeasts.htm", 
+        "11/18/16", 
+        "11/16/16", 
+        32658059
+      ], 
+      "Harry Potter and the Goblet of Fire": [
+        "/movies/?id=harrypotter4.htm", 
+        "11/18/05", 
+        "12/2/05", 
+        23161873
+      ], 
+      "Harry Potter and the Chamber of Secrets": [
+        "/movies/?id=harrypotter2.htm", 
+        "11/15/02", 
+        "12/13/02", 
+        25361777
+      ], 
+      "Harry Potter and the Order of the Phoenix": [
+        "/movies/?id=harrypotter5.htm", 
+        "7/11/07", 
+        "7/11/07", 
+        24765134
+      ], 
+      "Harry Potter and the Sorcerer's Stone": [
+        "/movies/?id=harrypotter.htm", 
+        "11/16/01", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: J.K. Rowling's Wizarding World"
+  }, 
+  {
+    "movie": {
+      "Predators": [
+        "/movies/?id=predators.htm", 
+        "7/9/10", 
+        "8/26/10", 
+        1696764
+      ], 
+      "Aliens Vs Predator - Requiem": [
+        "/movies/?id=avp2.htm", 
+        "12/25/07", 
+        "1/17/08", 
+        1915120
+      ], 
+      "Predator": [
+        "/movies/?id=predator.htm", 
+        "6/12/87"
+      ], 
+      "Alien Vs Predator": [
+        "/movies/?id=avp.htm", 
+        "8/13/04", 
+        "9/3/04", 
+        1571441
+      ], 
+      "Predator 2": [
+        "/movies/?id=predator2.htm", 
+        "11/21/90"
+      ]
+    }, 
+    "name": "Series: Predator"
+  }, 
+  {
+    "movie": {
+      "Transformers: Age of Extinction": [
+        "/movies/?id=transformers4.htm", 
+        "6/27/14", 
+        "6/26/14", 
+        43338590
+      ], 
+      "Transformers: The Movie": [
+        "/movies/?id=transformers.htm", 
+        "8/8/86"
+      ], 
+      "Transformers: Dark of the Moon": [
+        "/movies/?id=transformers3.htm", 
+        "6/29/11", 
+        "6/29/11", 
+        69067774
+      ], 
+      "Transformers": [
+        "/movies/?id=transformers06.htm", 
+        "7/3/07", 
+        "6/28/07", 
+        51511860
+      ], 
+      "Transformers: Revenge of the Fallen": [
+        "/movies/?id=transformers2.htm", 
+        "6/24/09", 
+        "6/24/09", 
+        43392124
+      ]
+    }, 
+    "name": "Series: Transformers"
+  }, 
+  {
+    "movie": {
+      "Paranormal Activity: The Ghost Dimension": [
+        "/movies/?id=paranormalactivity2014.htm", 
+        "10/23/15", 
+        "4/21/16", 
+        394986
+      ], 
+      "Paranormal Activity: The Marked Ones": [
+        "/movies/?id=paranormalactivity5.htm", 
+        "1/3/14", 
+        "NA", 
+        "NA"
+      ], 
+      "Paranormal Activity": [
+        "/movies/?id=paranormalactivity.htm", 
+        "9/25/09", 
+        "1/13/10", 
+        2831659
+      ], 
+      "Paranormal Activity 4": [
+        "/movies/?id=paranormalactivity4.htm", 
+        "10/19/12", 
+        "10/25/12", 
+        274882
+      ], 
+      "Paranormal Activity 3": [
+        "/movies/?id=paranormalactivity3.htm", 
+        "10/21/11", 
+        "10/20/11", 
+        798318
+      ], 
+      "Paranormal Activity 2": [
+        "/movies/?id=paranormalactivity2.htm", 
+        "10/22/10", 
+        "10/21/10", 
+        2318515
+      ]
+    }, 
+    "name": "Series: Paranormal Activity"
+  }, 
+  {
+    "movie": {
+      "The Hobbit: The Desolation of Smaug": [
+        "/movies/?id=hobbit2.htm", 
+        "12/13/13", 
+        "12/12/13", 
+        16392050
+      ], 
+      "The Lord of the Rings: The Two Towers": [
+        "/movies/?id=twotowers.htm", 
+        "12/18/02", 
+        "12/19/02", 
+        26266994
+      ], 
+      "The Lord of the Rings: The Return of the King": [
+        "/movies/?id=returnoftheking.htm", 
+        "12/17/03", 
+        "12/17/03", 
+        28462848
+      ], 
+      "The Lord of the Rings: The Fellowship of the Ring": [
+        "/movies/?id=fellowshipofthering.htm", 
+        "12/19/01", 
+        "1/1/02", 
+        15544637
+      ], 
+      "The Hobbit: The Battle of the Five Armies": [
+        "/movies/?id=hobbit3.htm", 
+        "12/17/14", 
+        "12/17/14", 
+        22351681
+      ], 
+      "The Hobbit: An Unexpected Journey": [
+        "/movies/?id=hobbit.htm", 
+        "12/14/12", 
+        "12/13/12", 
+        21688449
+      ]
+    }, 
+    "name": "Series: Middle Earth"
+  }, 
+  {
+    "movie": {
+      "Toy Story 2": [
+        "/movies/?id=toystory2.htm", 
+        "11/19/99"
+      ], 
+      "Toy Story / Toy Story 2 (3D)": [
+        "/movies/?id=toystory3d.htm", 
+        "10/2/09", 
+        "5/5/10", 
+        54436
+      ], 
+      "Toy Story": [
+        "/movies/?id=toystory.htm", 
+        "11/22/95"
+      ], 
+      "Toy Story 3": [
+        "/movies/?id=toystory3.htm", 
+        "6/18/10", 
+        "8/5/10", 
+        12248035
+      ]
+    }, 
+    "name": "Series: Toy Story"
+  }, 
+  {
+    "movie": {
+      "The Smurfs and the Magic Flute": [
+        "/movies/?id=smurfsandthemagicflute.htm", 
+        "10/7/83"
+      ], 
+      "The Smurfs 2": [
+        "/movies/?id=smurfs2.htm", 
+        "7/31/13", 
+        "8/1/13", 
+        5374219
+      ], 
+      "The Smurfs": [
+        "/movies/?id=smurfs.htm", 
+        "7/29/11", 
+        "8/11/11", 
+        7373726
+      ]
+    }, 
+    "name": "Series: The Smurfs"
+  }, 
+  {
+    "movie": {
+      "Riddick": [
+        "/movies/?id=riddick.htm", 
+        "9/6/13", 
+        "11/28/13", 
+        633410
+      ], 
+      "Pitch Black": [
+        "/movies/?id=pitchblack.htm", 
+        "2/18/00", 
+        "NA", 
+        "NA"
+      ], 
+      "The Chronicles of Riddick": [
+        "/movies/?id=chroniclesofriddick.htm", 
+        "6/11/04", 
+        "7/30/04", 
+        1400000
+      ]
+    }, 
+    "name": "Series: Riddick"
+  }, 
+  {
+    "movie": {
+      "Maze Runner: The Scorch Trials": [
+        "/movies/?id=mazerunner2.htm", 
+        "9/18/15", 
+        "9/18/15", 
+        19066066
+      ], 
+      "The Maze Runner": [
+        "/movies/?id=mazerunner.htm", 
+        "9/19/14", 
+        "9/18/14", 
+        20377014
+      ]
+    }, 
+    "name": "Series: Maze Runner"
+  }, 
+  {
+    "movie": {
+      "Ghostbusters (2016)": [
+        "/movies/?id=ghostbusters2016.htm", 
+        "7/15/16", 
+        "8/25/16", 
+        3693843
+      ], 
+      "Ghostbusters (Re-issue)": [
+        "/movies/?id=ghostbusters85.htm", 
+        "8/23/85"
+      ], 
+      "Ghostbusters (30th Anniversary re-release)": [
+        "/movies/?id=ghostbusters2014.htm", 
+        "8/29/14", 
+        "NA", 
+        "NA"
+      ], 
+      "Ghostbusters": [
+        "/movies/?id=ghostbusters.htm", 
+        "6/8/84"
+      ], 
+      "Ghostbusters II": [
+        "/movies/?id=ghostbusters2.htm", 
+        "6/16/89"
+      ]
+    }, 
+    "name": "Series: Ghostbusters"
+  }, 
+  {
+    "movie": {
+      "Harry Potter and the Half-Blood Prince": [
+        "/movies/?id=harrypotter6.htm", 
+        "7/15/09", 
+        "7/15/09", 
+        16089292
+      ], 
+      "Harry Potter IMAX Marathon": [
+        "/movies/?id=harrypotterimaxmarathon.htm", 
+        "10/14/16", 
+        "NA", 
+        "NA"
+      ], 
+      "Harry Potter and the Deathly Hallows Part 1": [
+        "/movies/?id=harrypotter7.htm", 
+        "11/19/10", 
+        "12/16/10", 
+        18084930
+      ], 
+      "Harry Potter and the Deathly Hallows Part 2": [
+        "/movies/?id=harrypotter72.htm", 
+        "7/15/11", 
+        "7/14/11", 
+        30563414
+      ], 
+      "Harry Potter and the Prisoner of Azkaban": [
+        "/movies/?id=harrypotter3.htm", 
+        "6/4/04", 
+        "7/15/04", 
+        9100000
+      ], 
+      "Fantastic Beasts and Where To Find Them": [
+        "/movies/?id=fantasticbeasts.htm", 
+        "11/18/16", 
+        "11/16/16", 
+        32658059
+      ], 
+      "Harry Potter and the Goblet of Fire": [
+        "/movies/?id=harrypotter4.htm", 
+        "11/18/05", 
+        "12/2/05", 
+        23161873
+      ], 
+      "Harry Potter and the Chamber of Secrets": [
+        "/movies/?id=harrypotter2.htm", 
+        "11/15/02", 
+        "12/13/02", 
+        25361777
+      ], 
+      "Harry Potter and the Order of the Phoenix": [
+        "/movies/?id=harrypotter5.htm", 
+        "7/11/07", 
+        "7/11/07", 
+        24765134
+      ], 
+      "Harry Potter and the Sorcerer's Stone": [
+        "/movies/?id=harrypotter.htm", 
+        "11/16/01", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: JK Rowling's Wizarding World"
+  }, 
+  {
+    "movie": {
+      "The Dark Knight Rises": [
+        "/movies/?id=batman3.htm", 
+        "7/20/12", 
+        "7/19/12", 
+        41992822
+      ], 
+      "Batman Begins (2012 re-release)": [
+        "/movies/?id=batman2012.htm", 
+        "7/19/12", 
+        "NA", 
+        "NA"
+      ], 
+      "The Dark Knight (2012 re-release)": [
+        "/movies/?id=darkknight2012.htm", 
+        "7/19/12", 
+        "NA", 
+        "NA"
+      ], 
+      "The Dark Knight": [
+        "/movies/?id=darkknight.htm", 
+        "7/18/08", 
+        "8/7/08", 
+        25024391
+      ], 
+      "Batman Begins": [
+        "/movies/?id=batmanbegins.htm", 
+        "6/15/05", 
+        "6/23/05", 
+        6252155
+      ]
+    }, 
+    "name": "Series: The Dark Knight Trilogy"
+  }, 
+  {
+    "movie": {
+      "Ice Age: Dawn of the Dinosaurs": [
+        "/movies/?id=iceage3.htm", 
+        "7/1/09", 
+        "8/12/09", 
+        5166601
+      ], 
+      "Ice Age": [
+        "/movies/?id=iceage.htm", 
+        "3/15/02", 
+        "8/8/02", 
+        4498748
+      ], 
+      "Ice Age: Collision Course": [
+        "/movies/?id=iceage5.htm", 
+        "7/22/16", 
+        "7/20/16", 
+        3665148
+      ], 
+      "Ice Age: Continental Drift": [
+        "/movies/?id=iceage4.htm", 
+        "7/13/12", 
+        "7/25/12", 
+        10583728
+      ], 
+      "Ice Age: The Meltdown": [
+        "/movies/?id=iceage2.htm", 
+        "3/31/06", 
+        "4/20/06", 
+        5301013
+      ]
+    }, 
+    "name": "Series: Ice Age"
+  }, 
+  {
+    "movie": {
+      "The Purge": [
+        "/movies/?id=purge.htm", 
+        "6/7/13", 
+        "11/7/13", 
+        722520
+      ], 
+      "The Purge: Anarchy": [
+        "/movies/?id=purge2.htm", 
+        "7/18/14", 
+        "8/27/14", 
+        375400
+      ], 
+      "The Purge: Election Year": [
+        "/movies/?id=purge3.htm", 
+        "7/1/16", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: The Purge"
+  }, 
+  {
+    "movie": {
+      "The Secret Life of Pets": [
+        "/movies/?id=illumination2015.htm", 
+        "7/8/16", 
+        "8/3/16", 
+        17494325
+      ]
+    }, 
+    "name": "Series: The Secret Life of Pets"
+  }, 
+  {
+    "movie": {
+      "The Conjuring": [
+        "/movies/?id=conjuring.htm", 
+        "7/19/13", 
+        "9/17/13", 
+        15213635
+      ], 
+      "Annabelle": [
+        "/movies/?id=newlinehorror.htm", 
+        "10/3/14", 
+        "10/2/14", 
+        6341652
+      ], 
+      "The Conjuring 2": [
+        "/movies/?id=conjuring2.htm", 
+        "6/10/16", 
+        "6/9/16", 
+        13838970
+      ]
+    }, 
+    "name": "Series: The Conjuring"
+  }, 
+  {
+    "movie": {
+      "Captain America: The First Avenger": [
+        "/movies/?id=captainamerica.htm", 
+        "7/22/11", 
+        "7/28/11", 
+        3814179
+      ], 
+      "Captain America: Civil War": [
+        "/movies/?id=marvel2016.htm", 
+        "5/6/16", 
+        "4/27/16", 
+        62859896
+      ], 
+      "Captain America: The Winter Soldier": [
+        "/movies/?id=marvel14b.htm", 
+        "4/4/14", 
+        "3/26/14", 
+        30177601
+      ]
+    }, 
+    "name": "Series: Captain America"
+  }, 
+  {
+    "movie": {
+      "Captain America: The First Avenger": [
+        "/movies/?id=captainamerica.htm", 
+        "7/22/11", 
+        "7/28/11", 
+        3814179
+      ], 
+      "Iron Man": [
+        "/movies/?id=ironman.htm", 
+        "5/2/08", 
+        "4/30/08", 
+        25169783
+      ], 
+      "Iron Man 3": [
+        "/movies/?id=ironman3.htm", 
+        "5/3/13", 
+        "4/25/13", 
+        64211513
+      ], 
+      "Marvel's The Avengers": [
+        "/movies/?id=avengers11.htm", 
+        "5/4/12", 
+        "4/26/12", 
+        50683851
+      ], 
+      "Thor: The Dark World": [
+        "/movies/?id=thor2.htm", 
+        "11/8/13", 
+        "10/30/13", 
+        21114584
+      ], 
+      "The Incredible Hulk": [
+        "/movies/?id=incrediblehulk.htm", 
+        "6/13/08", 
+        "6/12/08", 
+        6383794
+      ], 
+      "Avengers: Age of Ultron": [
+        "/movies/?id=avengers2.htm", 
+        "5/1/15", 
+        "4/23/15", 
+        78286828
+      ], 
+      "Doctor Strange": [
+        "/movies/?id=marvel716.htm", 
+        "11/4/16", 
+        "10/26/16", 
+        41325970
+      ], 
+      "Captain America: Civil War": [
+        "/movies/?id=marvel2016.htm", 
+        "5/6/16", 
+        "4/27/16", 
+        62859896
+      ], 
+      "Guardians of the Galaxy": [
+        "/movies/?id=marvel2014a.htm", 
+        "8/1/14", 
+        "7/31/14", 
+        10013310
+      ], 
+      "Iron Man 2": [
+        "/movies/?id=ironman2.htm", 
+        "5/7/10", 
+        "4/29/10", 
+        27095727
+      ], 
+      "Thor": [
+        "/movies/?id=thor.htm", 
+        "5/6/11", 
+        "4/28/11", 
+        14791773
+      ], 
+      "Captain America: The Winter Soldier": [
+        "/movies/?id=marvel14b.htm", 
+        "4/4/14", 
+        "3/26/14", 
+        30177601
+      ], 
+      "Ant-Man": [
+        "/movies/?id=antman.htm", 
+        "7/17/15", 
+        "9/3/15", 
+        20784172
+      ]
+    }, 
+    "name": "Series: Marvel Cinematic Universe"
+  }, 
+  {
+    "movie": {
+      "Star Wars": [
+        "/movies/?id=starwars4.htm", 
+        "5/25/77"
+      ], 
+      "Star Wars: Episode II - Attack of the Clones": [
+        "/movies/?id=starwars2.htm", 
+        "5/16/02", 
+        "7/4/02", 
+        7139915
+      ], 
+      "Star Wars: The Force Awakens": [
+        "/movies/?id=starwars7.htm", 
+        "12/18/15", 
+        "12/17/15", 
+        24142352
+      ], 
+      "Star Wars (Special Edition)": [
+        "/movies/?id=starwars4se.htm", 
+        "1/31/97"
+      ], 
+      "Return of the Jedi (Re-issue)": [
+        "/movies/?id=starwars685.htm", 
+        "3/29/85"
+      ], 
+      "The Empire Strikes Back (Re-issue)": [
+        "/movies/?id=starwars582.htm", 
+        "11/19/82"
+      ], 
+      "The Empire Strikes Back": [
+        "/movies/?id=starwars5.htm", 
+        "5/21/80"
+      ], 
+      "Star Wars (Re-issue)": [
+        "/movies/?id=starwars82.htm", 
+        "8/13/82"
+      ], 
+      "The Empire Strikes Back (Special Edition)": [
+        "/movies/?id=starwars5se.htm", 
+        "2/21/97"
+      ], 
+      "Star Wars: The Clone Wars": [
+        "/movies/?id=starwarsclonewars.htm", 
+        "8/15/08", 
+        "9/4/08", 
+        567100
+      ], 
+      "Star Wars: Episode III - Revenge of the Sith": [
+        "/movies/?id=starwars3.htm", 
+        "5/19/05", 
+        "5/26/05", 
+        10330455
+      ], 
+      "Attack of the Clones: The IMAX Experience (IMAX)": [
+        "/movies/?id=starwars2imax.htm", 
+        "11/1/02", 
+        "NA", 
+        "NA"
+      ], 
+      "Rogue One: A Star Wars Story": [
+        "/movies/?id=starwars2016.htm", 
+        "12/16/16", 
+        "12/28/16", 
+        7512448
+      ], 
+      "Star Wars: Episode I - The Phantom Menace": [
+        "/movies/?id=starwars.htm", 
+        "5/19/99"
+      ], 
+      "Star Wars: Episode I - The Phantom Menace (in 3D)": [
+        "/movies/?id=starwars3d.htm", 
+        "2/10/12", 
+        "2/9/12", 
+        682049
+      ], 
+      "Return of the Jedi": [
+        "/movies/?id=starwars6.htm", 
+        "5/25/83"
+      ], 
+      "Return of the Jedi (Special Edition)": [
+        "/movies/?id=starwars6se.htm", 
+        "3/14/97"
+      ]
+    }, 
+    "name": "Series: Star Wars"
+  }, 
+  {
+    "movie": {
+      "The Blair Witch Project": [
+        "/movies/?id=blairwitchproject.htm", 
+        "7/16/99"
+      ], 
+      "Blair Witch": [
+        "/movies/?id=woods2016.htm", 
+        "9/16/16", 
+        "11/23/16", 
+        312205
+      ], 
+      "Book of Shadows: Blair Witch 2": [
+        "/movies/?id=blairwitch2.htm", 
+        "10/27/00", 
+        "NA", 
+        "NA"
+      ]
+    }, 
+    "name": "Series: Blair Witch"
+  }, 
+  {
+    "movie": {
+      "The LEGO Batman Movie": [
+        "/movies/?id=lego2.htm", 
+        "2/10/17", 
+        "2/9/17", 
+        951582
+      ], 
+      "The LEGO Movie": [
+        "/movies/?id=lego.htm", 
+        "2/7/14", 
+        "2/6/14", 
+        1433366
+      ]
+    }, 
+    "name": "Series: LEGO"
+  }, 
+  {
+    "movie": {
+      "The Hunger Games: Mockingjay - Part 1": [
+        "/movies/?id=hungergames3.htm", 
+        "11/21/14", 
+        "11/20/14", 
+        5804110
+      ], 
+      "The Hunger Games: Mockingjay - Part 2": [
+        "/movies/?id=hungergames4.htm", 
+        "11/20/15", 
+        "11/18/15", 
+        5083416
+      ], 
+      "The Hunger Games: Catching Fire": [
+        "/movies/?id=catchingfire.htm", 
+        "11/22/13", 
+        "11/21/13", 
+        7347573
+      ], 
+      "The Hunger Games": [
+        "/movies/?id=hungergames.htm", 
+        "3/23/12", 
+        "4/5/12", 
+        3951587
+      ]
+    }, 
+    "name": "Series: The Hunger Games"
+  }, 
+  {
+    "movie": {
+      "Insidious": [
+        "/movies/?id=insidious.htm", 
+        "4/1/11", 
+        "9/13/12", 
+        223376
+      ], 
+      "Insidious Chapter 3": [
+        "/movies/?id=insidiouschapter3.htm", 
+        "6/5/15", 
+        "7/9/15", 
+        5575914
+      ], 
+      "Insidious Chapter 2": [
+        "/movies/?id=insidious2.htm", 
+        "9/13/13", 
+        "12/5/13", 
+        3795179
+      ]
+    }, 
+    "name": "Series: Insidious"
+  }, 
+  {
+    "movie": {
+      "Die Hard": [
+        "/movies/?id=diehard.htm", 
+        "7/15/88"
+      ], 
+      "Die Hard 2: Die Harder": [
+        "/movies/?id=diehard2.htm", 
+        "7/6/90"
+      ], 
+      "A Good Day to Die Hard": [
+        "/movies/?id=diehard5.htm", 
+        "2/14/13", 
+        "2/7/13", 
+        9766531
+      ], 
+      "Live Free or Die Hard": [
+        "/movies/?id=diehard4.htm", 
+        "6/27/07", 
+        "7/17/07", 
+        21735261
+      ], 
+      "Die Hard: With A Vengeance": [
+        "/movies/?id=diehardwithavengeance.htm", 
+        "5/19/95"
+      ]
+    }, 
+    "name": "Series: Die Hard"
+  }, 
+  {
+    "movie": {
+      "Final Destination 3": [
+        "/movies/?id=finaldestination3.htm", 
+        "2/10/06", 
+        "5/11/06", 
+        2268743
+      ], 
+      "Final Destination": [
+        "/movies/?id=finaldestination.htm", 
+        "3/17/00", 
+        "NA", 
+        1201475
+      ], 
+      "The Final Destination": [
+        "/movies/?id=finaldestination4.htm", 
+        "8/28/09", 
+        "10/1/09", 
+        1956726
+      ], 
+      "Final Destination 5": [
+        "/movies/?id=finaldestination5.htm", 
+        "8/12/11", 
+        "9/8/11", 
+        2002365
+      ], 
+      "Final Destination 2": [
+        "/movies/?id=finaldestination2.htm", 
+        "1/31/03", 
+        "6/20/03", 
+        592035
+      ]
+    }, 
+    "name": "Series: Final Destination"
+  }
+]
